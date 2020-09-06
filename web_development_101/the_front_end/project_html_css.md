@@ -4260,6 +4260,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Melissa's Solution (Easy)](https://github.com/sugarapplespice/google-homepage) - [View in Browser](https://sugarapplespice.github.io/google-homepage/)
 * [TheScurvyPirate's Solution (Easy)](https://github.com/TheScurvyPirate/odin-google-homepage) - [View in Browser](https://thescurvypirate.github.io/odin-google-homepage/)
 * [Buddie's Solution (Easy)](https://github.com/BuddieChapman/google-homepage) - [View in Browser](https://buddiechapman.github.io/google-homepage/)
+* [Sanjay's Solution (Easy)] (https://github.com/Sanjay1398/google-homepage)
 </details>
 
 ### Additional Resources
